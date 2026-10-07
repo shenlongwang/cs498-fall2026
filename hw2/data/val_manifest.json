@@ -1,0 +1,4002 @@
+[
+  {
+    "row_index": 0,
+    "model_id": "e0b3254416b047f598b29e569b91d3d2",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1496,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 1,
+    "model_id": "12f708db6bbb4c929c8b08e4c0e53586",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 186,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 2,
+    "model_id": "763995b178554b348392edd73fdc7695",
+    "type_id": "000-072",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2752,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 3,
+    "model_id": "71a963d196c248f0924a52192e9e5111",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 681,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 4,
+    "model_id": "b850488f0b0e41649e6ac89aa09714e7",
+    "type_id": "000-063",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2562,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 5,
+    "model_id": "5807cc9ed97144eaa0e6a304e3228e1e",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1405,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 6,
+    "model_id": "a8aa4049277142e88c56950a5f8ac091",
+    "type_id": "000-112",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3723,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 7,
+    "model_id": "2714d9691c6c4bc6b5e8c5f1f1cafec7",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3041,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 8,
+    "model_id": "138dbd4475d947978dcb538c91bfa95c",
+    "type_id": "000-148",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2591,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 9,
+    "model_id": "29d45f17c3cc42b6973b0aacbb6c058f",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 407,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 10,
+    "model_id": "416da881a1e04cc2a1be64d4a270dd94",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1444,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 11,
+    "model_id": "0004dd3ffcd04401b1437bdbcdc5775a",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1372,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 12,
+    "model_id": "fabcf4ae299a4c4494c7cbbe5a5b4765",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1403,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 13,
+    "model_id": "e509c267b5574ad4bf5262a1a80cc415",
+    "type_id": "000-043",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1893,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 14,
+    "model_id": "ddead161604945d78d2f24652c84783b",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 678,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 15,
+    "model_id": "08b49386dff3327baea13726e74922d8",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2608,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 16,
+    "model_id": "c6ace795594e44c8ab4c7ae1e3ac1203",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2295,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 17,
+    "model_id": "16620e5ad39b437e82b72fc0d01c28aa",
+    "type_id": "000-076",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3188,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 18,
+    "model_id": "23b828c735503affb3390bc0225c0373",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1869,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 19,
+    "model_id": "61e6b8c13ae0444b9aae3e7ac55fd44c",
+    "type_id": "000-159",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 4227,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 20,
+    "model_id": "20040c72d0d347a9a5b7c9454b8f2a62",
+    "type_id": "000-135",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 244,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 21,
+    "model_id": "a170ea5c760646208e4a04528c122cab",
+    "type_id": "000-034",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2443,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 22,
+    "model_id": "51e8e997d8b24c82b29938818f68d951",
+    "type_id": "000-040",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1088,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 23,
+    "model_id": "4ca6eb5f13203853ae9db38eab97dfdf",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1396,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 24,
+    "model_id": "cf0690389b9543caba4d011b0c7b3a7b",
+    "type_id": "000-138",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2244,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 25,
+    "model_id": "e1f5ee41c42d4c24844cc3093d3ef3da",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1760,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 26,
+    "model_id": "ec1ed3bbb64540cb82720fcd902b48c1",
+    "type_id": "000-035",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3560,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 27,
+    "model_id": "389fec96ea634517bc5ed351702610b4",
+    "type_id": "000-135",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 254,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 28,
+    "model_id": "4713857e8a2249789b4c952878980e3b",
+    "type_id": "000-011",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1699,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 29,
+    "model_id": "2b6bcffb92fc4e119cd015c1e1bd7fac",
+    "type_id": "000-146",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3797,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 30,
+    "model_id": "433fbea4367b4a55a5e5dc328fdf59ce",
+    "type_id": "000-036",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4200,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 31,
+    "model_id": "63c4e684b53b45a5bda729ba4009c7b4",
+    "type_id": "000-131",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1654,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 32,
+    "model_id": "b28cd8762a4e472a995c9ce09927ec51",
+    "type_id": "000-010",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 4443,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 33,
+    "model_id": "6232f940063a4a5a8a357d39f5979b16",
+    "type_id": "000-062",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3734,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 34,
+    "model_id": "2472881a54be43259af54b19d9e4edea",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 518,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 35,
+    "model_id": "da8a797a6b244494b912a76a45f587e5",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1557,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 36,
+    "model_id": "0bb543c58b173fd2a1e776b65a2ae317",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1950,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 37,
+    "model_id": "562aa43594bd4017a97fdc677ca0fe2b",
+    "type_id": "000-119",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3295,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 38,
+    "model_id": "e1b2bc2edf1d48778a6930d9f4547e55",
+    "type_id": "000-030",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3724,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 39,
+    "model_id": "c0f6891d856a4ae9a86c8973de3abe7c",
+    "type_id": "000-009",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4052,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 40,
+    "model_id": "16bf509986374177a84f8a360378b7b5",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 368,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 41,
+    "model_id": "7798229579e64fe9ae1d7a38b54fbc81",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2218,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 42,
+    "model_id": "73fa8869958c46869078f6145098a227",
+    "type_id": "000-051",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2693,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 43,
+    "model_id": "c09491a9d2704867bcb26591c1f6a876",
+    "type_id": "000-066",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 390,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 44,
+    "model_id": "a1336698a8d045c796ae1aa601adfef9",
+    "type_id": "000-160",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4649,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 45,
+    "model_id": "7cc528199f204343825b2c1f26458526",
+    "type_id": "000-017",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2777,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 46,
+    "model_id": "99e35a9eb1254334949e5845f987a53f",
+    "type_id": "000-163",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4600,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 47,
+    "model_id": "d72b7ee3e39b42e7b796e7ec9d23fbd7",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3309,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 48,
+    "model_id": "4f804c3d5c6f471b97cf81e801425714",
+    "type_id": "000-120",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3504,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 49,
+    "model_id": "054808d07f84455391b2068a981c86f6",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2191,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 50,
+    "model_id": "525340b6a3c642b4be3a9e3e31fefc6f",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 160,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 51,
+    "model_id": "28946cc397374b82a757856858840ae2",
+    "type_id": "000-128",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3391,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 52,
+    "model_id": "8004f35ab4204a1284e88ab3e1a0b5e7",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 726,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 53,
+    "model_id": "4bcb32f952e940f68d74635f00aa2205",
+    "type_id": "000-033",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3138,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 54,
+    "model_id": "af66e29787584e939e7b3c0c3a40fa95",
+    "type_id": "000-128",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3415,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 55,
+    "model_id": "83b4faf62aed485cab1d457848bea4eb",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2742,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 56,
+    "model_id": "6148d2bbb5b041209dd3f021f476c320",
+    "type_id": "000-026",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4290,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 57,
+    "model_id": "b2f303bdf0724fab9bf00f7d9ea74d84",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1349,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 58,
+    "model_id": "c7fe2c73c57f48ed9b25e25d7023e5dd",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 719,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 59,
+    "model_id": "82469777c98f4fc6920d7bd66839927f",
+    "type_id": "000-034",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2501,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 60,
+    "model_id": "df5fed6fa9ab4f63b64af329c1799614",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 8,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 61,
+    "model_id": "cf432737e2024b92ae7b5b51a83a90e4",
+    "type_id": "000-004",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1895,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 62,
+    "model_id": "e4f97e6f0ce54cb1aba65251115b8d7f",
+    "type_id": "000-069",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2234,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 63,
+    "model_id": "aa4bbd58d1184e1cb8b6410b759beb86",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1608,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 64,
+    "model_id": "0161bdab2cb7451fab1d2e046c7229fd",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2789,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 65,
+    "model_id": "1dad86b2b91645cf8c434bedd5469c40",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2426,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 66,
+    "model_id": "3fc8c2f77f474dfa8ca508b448a73c34",
+    "type_id": "000-045",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3248,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 67,
+    "model_id": "77fa7962fbf848408d39e0b4a454707b",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2986,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 68,
+    "model_id": "ef35bbdba5284069925a193b55ab6596",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 459,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 69,
+    "model_id": "768604f717f4480fbda4164b4a9da937",
+    "type_id": "000-149",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 4333,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 70,
+    "model_id": "0b66ff66005a41d3806a962e07bee34a",
+    "type_id": "000-115",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2274,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 71,
+    "model_id": "aa12420ccfd44b598390002ecfdaf668",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 753,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 72,
+    "model_id": "081657ab238b4cf3b032bbbadfab0737",
+    "type_id": "000-128",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3427,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 73,
+    "model_id": "506d43c6854f45aeaa86809e0512fa2a",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2011,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 74,
+    "model_id": "02b947dba57944308c27c276925899f7",
+    "type_id": "000-160",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4306,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 75,
+    "model_id": "b67f9ebb37a24b1baddcdcc2378fa549",
+    "type_id": "000-029",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 22,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 76,
+    "model_id": "6253491c6d7c4464bb73c20f4abb54a7",
+    "type_id": "000-065",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2902,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 77,
+    "model_id": "a08a674ab3334a3aaeb09ab24b8795af",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 850,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 78,
+    "model_id": "580f80eb76144199a321309f8a5bab5c",
+    "type_id": "000-017",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2773,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 79,
+    "model_id": "8d4c2e724a204ba5999431270f6a302d",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1424,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 80,
+    "model_id": "409ae7cf1cbe4d88893680d192c168b5",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 480,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 81,
+    "model_id": "0199f7c7d1ed447dbb4f6dfc2ef38ff8",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 68,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 82,
+    "model_id": "910268493bf44308a2c5338884aff7c1",
+    "type_id": "000-042",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3009,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 83,
+    "model_id": "aab24bca38e7499197cc6e49989a6d2b",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3717,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 84,
+    "model_id": "45e38c285c62427b9171d63ad55de8f9",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3353,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 85,
+    "model_id": "7ff2123fe8d449a09214c177ea760b86",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2630,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 86,
+    "model_id": "e230bb18983d4b65ad03f498334de75a",
+    "type_id": "000-107",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 4691,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 87,
+    "model_id": "5f4e428071c537e6967cc6b8f21a0b92",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3894,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 88,
+    "model_id": "de6baf69b02b490484681e40ce33a05d",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 843,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 89,
+    "model_id": "a87a9ae8e548488e8769b4bc530b35fa",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3575,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 90,
+    "model_id": "d358cff210394836bb26b74a51ad207a",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2194,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 91,
+    "model_id": "815b5511655c444ebbf1133973c91636",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1077,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 92,
+    "model_id": "1219f514b50746e3b3311fb42aa00f12",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2410,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 93,
+    "model_id": "e4f85c641f574e769f4b7f9489c769d2",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1088,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 94,
+    "model_id": "0a4a71b526594100a7b36cedd451baa2",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1977,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 95,
+    "model_id": "3bba642619a746e3b3297d9a63f2884d",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3062,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 96,
+    "model_id": "d4d52a3faac04ecbb68d625e3337318b",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 423,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 97,
+    "model_id": "792f2d93cae74ec18fbe8293e0309c75",
+    "type_id": "000-160",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4330,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 98,
+    "model_id": "8671f87c2f3646889c197e521ffe5970",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1608,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 99,
+    "model_id": "fff29d0783b9400ead5038664a27f85b",
+    "type_id": "000-007",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2084,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 100,
+    "model_id": "b2913034e1a4439e9c6dcc6bdcdc1b79",
+    "type_id": "000-033",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3123,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 101,
+    "model_id": "ae6ec2d86bd44f0cad5ccd39375b895b",
+    "type_id": "000-045",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3236,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 102,
+    "model_id": "75813d5fa411403fab1cbfd7a2fe9b7d",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1730,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 103,
+    "model_id": "80441d168c994b0eab6793c1e571760d",
+    "type_id": "000-042",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3017,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 104,
+    "model_id": "45d865a4455c40be994604d83c422e4c",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 323,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 105,
+    "model_id": "84e05e578b524cff8dc52083a8a1d5a0",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2390,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 106,
+    "model_id": "4d0bca2aec9941cead12009f28783b48",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1336,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 107,
+    "model_id": "1d55579b56444284b38c9bea16465503",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 147,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 108,
+    "model_id": "24d425fe44dd465cac4a5684a21b8755",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1863,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 109,
+    "model_id": "ba0e1c8c5d2b43dd8d1a5ead585c0d92",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 495,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 110,
+    "model_id": "b3b8d452d9e14e54a0376ec332645daa",
+    "type_id": "000-116",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3488,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 111,
+    "model_id": "a5a52d11751d43b2b3178d517875414e",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1202,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 112,
+    "model_id": "defda34da41440189b7520d1f9f88c47",
+    "type_id": "000-071",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4241,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 113,
+    "model_id": "4f97df72b6033d75abcb29ddcdaec8ef",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1981,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 114,
+    "model_id": "f68669a8bbbd471e9fc758c42d8cbeb2",
+    "type_id": "000-075",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1939,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 115,
+    "model_id": "4be932a570ab4f14a532d19590d0c145",
+    "type_id": "000-041",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 494,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 116,
+    "model_id": "7c40fe72b0304f59ba43da7af28dfd52",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 86,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 117,
+    "model_id": "8e4cd7c0ea604d63be750aa29d2af4b8",
+    "type_id": "000-041",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 490,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 118,
+    "model_id": "be531b42d7b6446abaf22197f21cddc6",
+    "type_id": "000-160",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4608,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 119,
+    "model_id": "23551d95aa304fa8aaf355ddfb6032e9",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1478,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 120,
+    "model_id": "202be3788e97471d90418f24d8c3df00",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3108,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 121,
+    "model_id": "24360a575ce133fcaac6085f5c9619ad",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1498,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 122,
+    "model_id": "6c237a2a32504b78bb781ac9f160fdba",
+    "type_id": "000-060",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1224,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 123,
+    "model_id": "6f2f089466a3434480677807d45bd4f5",
+    "type_id": "000-073",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1470,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 124,
+    "model_id": "8af59c12464d424aa8667a7df87ca3d8",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1951,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 125,
+    "model_id": "c9c4406045d14dd5bd76602f9d90addf",
+    "type_id": "000-017",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2816,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 126,
+    "model_id": "cfbba458c28c43d486783c54eff3ff04",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2120,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 127,
+    "model_id": "5cb602674f8c437594d0f8b4cf44b748",
+    "type_id": "000-109",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3357,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 128,
+    "model_id": "43e21b57c207426eb7d110442437d2e8",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2176,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 129,
+    "model_id": "6a4772ec54ff476789bb5ad597957016",
+    "type_id": "000-160",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4309,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 130,
+    "model_id": "7268c79a7e0847eb9f044efa8a883aa5",
+    "type_id": "000-043",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1875,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 131,
+    "model_id": "49aac49cef3e48b9aa1fe4cb460c7912",
+    "type_id": "000-129",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3242,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 132,
+    "model_id": "c68324fc1cfd43e0abce0deda29a7199",
+    "type_id": "000-149",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 4312,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 133,
+    "model_id": "c50fbcbc3aff49a68af9c7b9993f3040",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 985,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 134,
+    "model_id": "fb81032a950949daa443c58846129372",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1227,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 135,
+    "model_id": "2c0c12edf5da4505b532c283034d6359",
+    "type_id": "000-134",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 556,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 136,
+    "model_id": "51677a93f82d4c249b9a3585210d69ce",
+    "type_id": "000-142",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2010,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 137,
+    "model_id": "0f92470cb70349fbb317fb3e570363aa",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 589,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 138,
+    "model_id": "1d44fed81f0a34c4877c882d306f37ac",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3783,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 139,
+    "model_id": "88afd3ec7ba3414aad08ad93cc923f37",
+    "type_id": "000-160",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4362,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 140,
+    "model_id": "9b1d49c37d154d2d8d0679ebe8fc1d57",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1051,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 141,
+    "model_id": "3be47089994342d1a9e3b31569e927bb",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3423,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 142,
+    "model_id": "cfe9d18375ca4bbd95745d6a0b7c7eb1",
+    "type_id": "000-129",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3237,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 143,
+    "model_id": "e49a927b12f54bcea15e497d9812058c",
+    "type_id": "000-107",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 4670,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 144,
+    "model_id": "c3a928951b824536b497cabdfdafc790",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1578,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 145,
+    "model_id": "1d0dc79c9c504079a1d9e33395f6d09f",
+    "type_id": "000-015",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3132,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 146,
+    "model_id": "0f08354f9be9419d85c0e6f219691b79",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 978,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 147,
+    "model_id": "30baf2bb3ca44e62aeb6b1f8677cc827",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 163,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 148,
+    "model_id": "5f8abeb15280470fa8a9465c25e365ec",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 891,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 149,
+    "model_id": "552a8e7e5c014ebfac4f3382daadafb9",
+    "type_id": "000-136",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 190,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 150,
+    "model_id": "ac49e2d782ed496fab969fa5fd84dfdb",
+    "type_id": "000-063",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2542,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 151,
+    "model_id": "65fc1bb119904889883cafe369dd7d63",
+    "type_id": "000-160",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4484,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 152,
+    "model_id": "6752bd60597a49be987797fcb8465c00",
+    "type_id": "000-141",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3930,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 153,
+    "model_id": "71a26a0dc4a64ad1be4f0c65a6b559ba",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1746,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 154,
+    "model_id": "cbb39a1ac7cc45e4b512a4489e61f384",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 928,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 155,
+    "model_id": "aae37d09a8dd49ed97a899be88c19a69",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2402,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 156,
+    "model_id": "b5c1b81b1ea14ba4be62d0b54b70432b",
+    "type_id": "000-166",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2429,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 157,
+    "model_id": "c9df53ca5ecd4839b3709a2d6605129c",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1615,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 158,
+    "model_id": "7d72b38de5df3c58b7c73c494c00eeca",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 566,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 159,
+    "model_id": "87626a99d6d342528c04986d0bcaa6a4",
+    "type_id": "000-012",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1143,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 160,
+    "model_id": "5045c2af930c44cfa24d1fc5afcf4444",
+    "type_id": "000-166",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2394,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 161,
+    "model_id": "39059edc24d547f393c91856606e25da",
+    "type_id": "000-029",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 56,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 162,
+    "model_id": "3917aa9c14dc43938393d67ff4f66f06",
+    "type_id": "000-111",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2769,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 163,
+    "model_id": "13c62b587cc44bf780d13d5f05080f54",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2801,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 164,
+    "model_id": "9546ee09dc8745f48fa3a09a57981b1f",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3063,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 165,
+    "model_id": "335ffad7831446b48b84e57f1c9150b9",
+    "type_id": "000-017",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2797,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 166,
+    "model_id": "f6c6c608ab354c55a684943f7ac8e508",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1583,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 167,
+    "model_id": "5a829b8d4fea361b93de5af6fbd16481",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1026,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 168,
+    "model_id": "998e9921d6aa45eab6e08a9618cfdce9",
+    "type_id": "000-075",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1979,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 169,
+    "model_id": "25b28f1c7c414c099bbdaa2fe4e314df",
+    "type_id": "000-109",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3369,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 170,
+    "model_id": "f6b0c97b8ab9429a92a7d338bd519f8c",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 916,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 171,
+    "model_id": "465bfaa63f454abebe8f041b8c9ffa5a",
+    "type_id": "000-008",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 4597,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 172,
+    "model_id": "49f848748a47477a92d50010d2fbb244",
+    "type_id": "000-138",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2252,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 173,
+    "model_id": "8cda950cf8c84e3096710df124bdacf3",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1135,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 174,
+    "model_id": "ab3ad306398b46a3b6699459ac12de24",
+    "type_id": "000-056",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1548,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 175,
+    "model_id": "39bbde29ff244862ad27a7e3df7423aa",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1193,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 176,
+    "model_id": "06c0bae60d0f4562af8de97143b3a2ad",
+    "type_id": "000-036",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4192,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 177,
+    "model_id": "9970d508780c493b8a90121062175e55",
+    "type_id": "000-024",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4425,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 178,
+    "model_id": "9a7ecf019e3641668c08519df0e64e87",
+    "type_id": "000-145",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4536,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 179,
+    "model_id": "31c1da2cbb2d475280467d80f7206a09",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1590,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 180,
+    "model_id": "2eb2b3dcdab44cf08ea85c9cd17b05c0",
+    "type_id": "000-151",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4144,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 181,
+    "model_id": "2913e24c7de84a2b99d4c2cb96fe45d7",
+    "type_id": "000-134",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 565,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 182,
+    "model_id": "04b7beca998e42499aa28179e547f7fe",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2540,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 183,
+    "model_id": "fa11b2c5a2164a09b4bc4f4b410b6397",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 617,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 184,
+    "model_id": "9a209540f72f4bed8197f748000e6e43",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3984,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 185,
+    "model_id": "a5e6d3578a664510bea57438d1f763a2",
+    "type_id": "000-028",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1154,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 186,
+    "model_id": "4811feb83e4443adab375a82e47a2ae2",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1802,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 187,
+    "model_id": "33b9c599aa124562ae820e8eb6eb8580",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 539,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 188,
+    "model_id": "91556d790e254f90ac613d5ad91be689",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2737,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 189,
+    "model_id": "a4332af4f7d5425890abeda048209ae9",
+    "type_id": "000-043",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1902,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 190,
+    "model_id": "e53475f5c5ce4967aa956a9c7aaf86d2",
+    "type_id": "000-116",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3467,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 191,
+    "model_id": "faa7ea9a815d4405be56998a91689fc0",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 722,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 192,
+    "model_id": "4df7e74a181447f6b6c42d57b2f6a655",
+    "type_id": "000-053",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3677,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 193,
+    "model_id": "38537074304035ae99080a729d498eec",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3249,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 194,
+    "model_id": "088f5988b11347fbb2a348897de957d9",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1983,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 195,
+    "model_id": "67f757696bf74b22b49eb802b287535c",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3886,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 196,
+    "model_id": "b6916aa2b4654f7b9b396f4936ab9dba",
+    "type_id": "000-019",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2946,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 197,
+    "model_id": "3f9c6c301d4f4fb78573a046dd795036",
+    "type_id": "000-036",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4190,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 198,
+    "model_id": "9fc0279cab184561bf103921136237af",
+    "type_id": "000-142",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2038,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 199,
+    "model_id": "4efd1db23b3949b3a23a96f791d981b0",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3464,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 200,
+    "model_id": "951b7c4fd6ac405b9dba3de4b3acfc8c",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 107,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 201,
+    "model_id": "06a9118fb9364a5d8d0210a3c0a0ebe5",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 703,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 202,
+    "model_id": "fddf6c516f754f92ac589fab57e7d6fb",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 406,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 203,
+    "model_id": "893637c934994f588d81f60aef2d7bd2",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 821,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 204,
+    "model_id": "442603ee7c36469394f30f7dfd2adc29",
+    "type_id": "000-004",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1903,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 205,
+    "model_id": "d3902c3d06e146d48f86d9475dedf1c9",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1676,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 206,
+    "model_id": "62fb1c00318b4b859d6c912daa70a29b",
+    "type_id": "000-064",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1635,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 207,
+    "model_id": "cc9a0d88318549a2a1907f1027c97373",
+    "type_id": "000-148",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2581,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 208,
+    "model_id": "79f8eeb49d8d47aa91ad9ffb3860d29f",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 4144,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 209,
+    "model_id": "f93d66eba71943149b10204f8460aef0",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 38,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 210,
+    "model_id": "c0e99197dcbd487591844d8b9e6e4f80",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1776,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 211,
+    "model_id": "dcee2e74b90d42fc9890d39f14d93863",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3771,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 212,
+    "model_id": "32f8bafd9fcc48adbec217c79f8917a2",
+    "type_id": "000-151",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4174,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 213,
+    "model_id": "09ca06c20b1241638125203faf159163",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1188,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 214,
+    "model_id": "d3cc484556c345ccbbdc93f9e41fbd69",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2462,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 215,
+    "model_id": "4873ad9940944f5b9300776c2ea29120",
+    "type_id": "000-040",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1113,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 216,
+    "model_id": "272847266e384cb995fabc33a46c6cd8",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1438,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 217,
+    "model_id": "7715b221963c497782c514ff46dabf7b",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1225,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 218,
+    "model_id": "2174747e042c46958b8e2fa6200af0f8",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3722,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 219,
+    "model_id": "38e91f7236474c11bd06be114072e568",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1160,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 220,
+    "model_id": "1a171ab18cf54527b9225638fb6d37ad",
+    "type_id": "000-128",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3369,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 221,
+    "model_id": "111a93c0aad84ec18ca1be29edc05e5f",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2446,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 222,
+    "model_id": "8af88066edf3420cbfe8b19cca51a29f",
+    "type_id": "000-158",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2020,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 223,
+    "model_id": "99fc178ecc0943ae81454a3735e2eb5f",
+    "type_id": "000-024",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4412,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 224,
+    "model_id": "1b1347b3934b4d40906d9294c7dcc1ea",
+    "type_id": "000-115",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2247,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 225,
+    "model_id": "b47e2c087df24e9896c02b138fba3f4d",
+    "type_id": "000-064",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1651,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 226,
+    "model_id": "1d60433c511949ddb9fce6a614755d40",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1666,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 227,
+    "model_id": "a989a35d701647c28ba94be3147db605",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 116,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 228,
+    "model_id": "51c80763fa9a4e17ab770ca2245f84dd",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 614,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 229,
+    "model_id": "2b7d652da00149e3af1a7328256eb676",
+    "type_id": "000-011",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1704,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 230,
+    "model_id": "14f7071a0d964652823d59324d353048",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 740,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 231,
+    "model_id": "83227860e5d54da19a001521b2bffa5e",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 716,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 232,
+    "model_id": "dd89f847b5084a2aa0148d8dbd885726",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 103,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 233,
+    "model_id": "510389efa72b40098e687107469187be",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2847,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 234,
+    "model_id": "407eb582514649dd9e6114f82300b0c1",
+    "type_id": "000-068",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3272,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 235,
+    "model_id": "6a9a400d10eb450ba12037b5eb1dd19a",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1857,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 236,
+    "model_id": "9097c36d77d34e3ba8c2eacdbc6a821b",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3530,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 237,
+    "model_id": "65850f85f51c4ee3b2f564ba41d749fc",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1270,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 238,
+    "model_id": "4efeef4a24a8406ea81fe3b4557df07c",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1331,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 239,
+    "model_id": "ce74e7fc04854bbcba5df2efc5fca354",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3971,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 240,
+    "model_id": "0d1c2c395c574c75b477603123dc0b40",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3612,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 241,
+    "model_id": "b6b8ec0c72454baba8d5842e9a349f69",
+    "type_id": "000-034",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2479,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 242,
+    "model_id": "f9982bf83dd14e0aac772acf3f274dea",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 955,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 243,
+    "model_id": "1b2d3e969ec44ca8be79ac2f4aa9ff74",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 430,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 244,
+    "model_id": "a2f5df65c30f42d6a991f597299cb937",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1332,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 245,
+    "model_id": "191ada7005fd470680012f5cfebaa85b",
+    "type_id": "000-155",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1264,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 246,
+    "model_id": "9f6db83ebdfb452686a97d241cce4ba5",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1883,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 247,
+    "model_id": "0da2a2fffd2d3cd38dc99303c7a80814",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 924,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 248,
+    "model_id": "f8cf5a238ef34825b33789b71bee398b",
+    "type_id": "000-139",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3527,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 249,
+    "model_id": "d33ffef6b84b4de8bc573a8316c610e8",
+    "type_id": "000-027",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2733,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 250,
+    "model_id": "522e6516c86346479b7caca6d305c051",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 673,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 251,
+    "model_id": "a632c0e2dcf34da19e0c0abbbb190540",
+    "type_id": "000-143",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4131,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 252,
+    "model_id": "58efde170b6047c092a3e04f4971d254",
+    "type_id": "000-160",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4425,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 253,
+    "model_id": "588071bbb52e44a4803892ec4eaf7907",
+    "type_id": "000-017",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2789,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 254,
+    "model_id": "578a50ef9ce84847ab6835ed3a1a5b17",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1510,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 255,
+    "model_id": "e6af4130d977478c98c04034ace08be0",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2806,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 256,
+    "model_id": "d0537aadb9074287826883a416d4d3b8",
+    "type_id": "000-066",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 397,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 257,
+    "model_id": "d0e8e79488004f0bb739de69d5409e7a",
+    "type_id": "000-150",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3425,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 258,
+    "model_id": "2045e9073446481da569b64bfe05e090",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1149,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 259,
+    "model_id": "da0b03f9d8014fa797e9607b2c2d000b",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3953,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 260,
+    "model_id": "a4f777d159f54f7a9772555925a2b472",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1610,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 261,
+    "model_id": "889068c71d3c40ff981fa93e61bd9779",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 733,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 262,
+    "model_id": "13ea115791433b97b0be4a1e88780c2a",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3398,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 263,
+    "model_id": "9d40d9be42d04dbb9fed0a57143f4e34",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1687,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 264,
+    "model_id": "aa7e1f3908084e82847961cc7885a4d3",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 868,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 265,
+    "model_id": "4b0574b123d64122b057a2e6a06db288",
+    "type_id": "000-110",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3992,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 266,
+    "model_id": "60ed192373b74492b8e5aa2b80d45ed1",
+    "type_id": "000-141",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3899,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 267,
+    "model_id": "1258e652dc2b4634bccbd605a7c74a06",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 648,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 268,
+    "model_id": "d35daaf9371246bd900e7f02d09bb627",
+    "type_id": "000-057",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4239,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 269,
+    "model_id": "c91eed5dea434657b7e9c1f014c29612",
+    "type_id": "000-129",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3177,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 270,
+    "model_id": "618aad45c1834e91a1a8081b07cf7cf9",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 908,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 271,
+    "model_id": "6b31a12736b14d4abcc41807a3bbaae9",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3479,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 272,
+    "model_id": "3ee38d4e69ed48ebbc946d39b696e087",
+    "type_id": "000-122",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3243,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 273,
+    "model_id": "3f2a151606a14920a0f0cc5abc09d3ec",
+    "type_id": "000-145",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4583,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 274,
+    "model_id": "72dccd014f58410d8c6f987f39356749",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2911,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 275,
+    "model_id": "bffdc1544fc4497c98f4530d44675381",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 746,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 276,
+    "model_id": "ae3af54b3c81413789033ca311c75fbe",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1601,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 277,
+    "model_id": "aa56886c8f6f42bfab86f2a99e086d89",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2858,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 278,
+    "model_id": "e637e2ddb3f546ce8fa7e0fb63a2aae4",
+    "type_id": "000-158",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2052,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 279,
+    "model_id": "613a3bba016d4e1daa068dac504edfa4",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1561,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 280,
+    "model_id": "c6b4f7a8bf1748d78b2230b9e80cb5d1",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 465,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 281,
+    "model_id": "a1ba0cc7fe2b47a0a5700ed3d4ff763a",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1055,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 282,
+    "model_id": "38fcc4b2c6964c55ac80e6c18c141550",
+    "type_id": "000-150",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3430,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 283,
+    "model_id": "52223d6f5f034b709a4992805098c2b4",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2311,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 284,
+    "model_id": "7648bb3fae0f4f6c87d337b4fe8208ba",
+    "type_id": "000-114",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2377,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 285,
+    "model_id": "0ed26e16319a4fbc9dd8b513c7786767",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1415,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 286,
+    "model_id": "632e22e5a8b64416ab8761dcef00cd4d",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2884,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 287,
+    "model_id": "66cd0aab35384cd6a51f22f1a97519ce",
+    "type_id": "000-027",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2780,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 288,
+    "model_id": "dba6dba403b246a2bc6d9f115473210a",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1851,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 289,
+    "model_id": "60c1984a587b4ef882ca87e484c49d5a",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 702,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 290,
+    "model_id": "8115e1aae0714c78996d29b580ef5ab3",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1434,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 291,
+    "model_id": "b9a46e44274b4446840be8f6b5f1e2f6",
+    "type_id": "000-125",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2991,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 292,
+    "model_id": "fce5f113e7884d5495547c1c2a159642",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 995,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 293,
+    "model_id": "3037b265ac7e4059af41ed31e7253ca2",
+    "type_id": "000-050",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1079,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 294,
+    "model_id": "7042cb909cef474ebcecb344803178b1",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2708,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 295,
+    "model_id": "27e7b15e4823370cacf3e3260a16c00f",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1447,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 296,
+    "model_id": "2c32127e0a354be9b588bbeb8f9ac644",
+    "type_id": "000-136",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 149,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 297,
+    "model_id": "8084e9dae0614831bb9724c61e94741a",
+    "type_id": "000-027",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2786,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 298,
+    "model_id": "cb2ee933da2f4048b4a5cca085874fc5",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 253,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 299,
+    "model_id": "83572250288d39d3b336463672cf3d97",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 46,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 300,
+    "model_id": "594a44b8da8445b3b4488ad6d355290f",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2635,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 301,
+    "model_id": "10e162fbebd347818b064f7d9b282f73",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 453,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 302,
+    "model_id": "2afb2ee1fda44f199b7b9f13a4690f3b",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 564,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 303,
+    "model_id": "846649f70577497db962c99207cc413b",
+    "type_id": "000-059",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1573,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 304,
+    "model_id": "5a72a795d8e538a28ae8a0d6b88fff8c",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2041,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 305,
+    "model_id": "f6853b8aadfb4ef2af5d730e21c86bf8",
+    "type_id": "000-128",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3398,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 306,
+    "model_id": "64771bbfdb2d4dd08d8a33a08a03fa93",
+    "type_id": "000-064",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1675,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 307,
+    "model_id": "2bf217bbd8d03693a06f9bec9a3ac8f6",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1965,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 308,
+    "model_id": "3b79e67f26d3463d9bb05f2ed7b425b4",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2802,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 309,
+    "model_id": "15a0433562944394bc9277e716e64226",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1868,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 310,
+    "model_id": "6fb643dbd0d44556a4fa3f68a0badc56",
+    "type_id": "000-005",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2394,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 311,
+    "model_id": "171e6880ee7d42e49dc45ef59e42656b",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2615,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 312,
+    "model_id": "dba206fede0844c6a9b33d6fc72ce65f",
+    "type_id": "000-130",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3296,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 313,
+    "model_id": "e757e9395e344e34a9cdc4e93b5c9ca6",
+    "type_id": "000-042",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3013,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 314,
+    "model_id": "4ae3d68998c4468aa36d2096e173b8c1",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1146,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 315,
+    "model_id": "dbacecbbf5a7430e8244b1af523a6684",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2027,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 316,
+    "model_id": "0bfee14632dc4288a80bf25738dc419d",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3991,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 317,
+    "model_id": "6862a786874346d5b82b9a11e34bbdcc",
+    "type_id": "000-050",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1019,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 318,
+    "model_id": "f130342f9cde4487a875e268149f04b6",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 403,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 319,
+    "model_id": "5dfe7d704a1d4ad6be5f4a77fbb488d3",
+    "type_id": "000-126",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4184,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 320,
+    "model_id": "4f643e65f4634de8b6f16ca3821eb8c8",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 708,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 321,
+    "model_id": "80b2edffc8134cd6979cb1b3ef29424c",
+    "type_id": "000-048",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4487,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 322,
+    "model_id": "878631b77c7943f2a947de58fd9492fe",
+    "type_id": "000-026",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4353,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 323,
+    "model_id": "c59a495347994fc08d9eacaff902d100",
+    "type_id": "000-074",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1821,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 324,
+    "model_id": "a08bef09584b490898b0d1c7ac2099cd",
+    "type_id": "000-120",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3501,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 325,
+    "model_id": "7cda5846901844568b7281640eb13baf",
+    "type_id": "000-042",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3006,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 326,
+    "model_id": "a6d3e27e7458455f9ab35908573b17fb",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3965,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 327,
+    "model_id": "2a6027d2af214b14a88257798146e4c0",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1413,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 328,
+    "model_id": "458b9b848a13494fa1e60893d391a18f",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1205,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 329,
+    "model_id": "5dea953ae67944b48a5ec7af0096f66b",
+    "type_id": "000-126",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4221,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 330,
+    "model_id": "56c4a8164a404d86a658a607230257f5",
+    "type_id": "000-071",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4264,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 331,
+    "model_id": "ab6afe9ea2ed4830b89a41c9ae159e60",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 606,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 332,
+    "model_id": "9567020ecaa64d0caece8cb6d5fff4d6",
+    "type_id": "000-127",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3656,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 333,
+    "model_id": "3466bf8546fd4f30a79e7e45f7147dc9",
+    "type_id": "000-129",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 3228,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 334,
+    "model_id": "108ad36ae8024e90aea4a765ab59be6d",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1894,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 335,
+    "model_id": "92b4dfab287f45b5a2941977c7f5e71e",
+    "type_id": "000-135",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 227,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 336,
+    "model_id": "8a00480f641c454d816f36c5bc2321bc",
+    "type_id": "000-001",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2648,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 337,
+    "model_id": "86048a28ad434957b37d2217f0c10211",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1903,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 338,
+    "model_id": "e5dd6e27d70d4ae7af437728ccc589a7",
+    "type_id": "000-143",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4101,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 339,
+    "model_id": "f25f3bdfb3a440708d7704dc3f4bb321",
+    "type_id": "000-109",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3389,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 340,
+    "model_id": "07a6b1bc41eb496bad24cc6971844424",
+    "type_id": "000-145",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4543,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 341,
+    "model_id": "587be7f1bbfd494882d8217d70e27fdf",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1727,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 342,
+    "model_id": "d32bfed2c631441aafe983a4ea455627",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1133,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 343,
+    "model_id": "cab9553a717549dd8042b1d3bcabe2c9",
+    "type_id": "000-143",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4093,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 344,
+    "model_id": "18b9061044e748ca9b4d891fd38a03b6",
+    "type_id": "000-061",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3825,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 345,
+    "model_id": "b905d354b1554d4399db1db5346ce895",
+    "type_id": "000-070",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3606,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 346,
+    "model_id": "dafe7784aef44afda31f6a9f79a50bb7",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2595,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 347,
+    "model_id": "90985d59797c4796a2b33b7d037c20da",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1362,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 348,
+    "model_id": "02257385803f4d93b4f6156ae1c5b8fa",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1657,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 349,
+    "model_id": "2399c8cbb40b38009c2b58cf368d2cd5",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2099,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 350,
+    "model_id": "58ee7445735f4c01b40f47cc2b5f25cb",
+    "type_id": "000-014",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2686,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 351,
+    "model_id": "4d9bc41be52a43448b85b99bd15ae44d",
+    "type_id": "000-053",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3667,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 352,
+    "model_id": "8b01a1f544e34d5eb1e609650bf45377",
+    "type_id": "000-145",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 4539,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 353,
+    "model_id": "c6578166acbd4259bfffe85830fda52c",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 652,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 354,
+    "model_id": "b2f64331c1974aa2beb06fa84bf3cd70",
+    "type_id": "000-037",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 981,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 355,
+    "model_id": "3d26ca0af32b48998edab320f60958c1",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 493,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 356,
+    "model_id": "109361b4a0ed449987fba83addb01b37",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 25,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 357,
+    "model_id": "530faaca4aa8464994501f04acf1a5df",
+    "type_id": "000-031",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3717,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 358,
+    "model_id": "ecd48d050e984580a62cf34ecde54c61",
+    "type_id": "000-009",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 4093,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 359,
+    "model_id": "7a0b6698a4e948aeae3c46b77e55469f",
+    "type_id": "000-166",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2452,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 360,
+    "model_id": "0497b7592bee4dad9ead6d1ccd7f9135",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 686,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 361,
+    "model_id": "7bdf25ad8b3c4c53974b049ea4e12d65",
+    "type_id": "000-140",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 4272,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 362,
+    "model_id": "8482628c845146789905d732d62d736d",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1028,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 363,
+    "model_id": "ec856859b0dc46818f4891a8260912b1",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3134,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 364,
+    "model_id": "4c567a7c318c4d718c8e39808b5f8cb8",
+    "type_id": "000-138",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2256,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 365,
+    "model_id": "5c5d1c3bb4494ed9bcad956b6b4709d5",
+    "type_id": "000-133",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3399,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 366,
+    "model_id": "c5c053a577b64a4fa29d6d8f17aa6c3c",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 735,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 367,
+    "model_id": "3336af2e3b1f4ac69f775531f7a4a761",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1188,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 368,
+    "model_id": "163a7734363f4317acede590db87a564",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 83,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 369,
+    "model_id": "faa72f092f6d4a109165d54b491bf64b",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 3415,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 370,
+    "model_id": "c5937f46595a4ac6984afc6611d604fe",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1415,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 371,
+    "model_id": "f00b14434aa64d6fbd71c15713fbe4de",
+    "type_id": "000-061",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3793,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 372,
+    "model_id": "44c8bec3cf5d4894bfe67a48e296d0a3",
+    "type_id": "000-076",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3182,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 373,
+    "model_id": "1c58e10fd64346fd9dd7f44db9f24aba",
+    "type_id": "000-157",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 3070,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 374,
+    "model_id": "c3862c9129b349a8a12513564b84fb4f",
+    "type_id": "000-165",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 4003,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 375,
+    "model_id": "6a860c92b1da4f65806a87027c0de85f",
+    "type_id": "000-162",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 2767,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 376,
+    "model_id": "0f0c87d991d547b0b1c27c9571ddbb8f",
+    "type_id": "000-044",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1424,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 377,
+    "model_id": "acf6497a3d274d90ad3750510348f07a",
+    "type_id": "000-012",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1150,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 378,
+    "model_id": "1076643a125b483ba9213d49f8b57714",
+    "type_id": "000-051",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 2669,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 379,
+    "model_id": "600bfa92f56a35b2ac902634dee248f3",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1290,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 380,
+    "model_id": "498f35469b5c3e58a87b6cf7dd6379c0",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1408,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 381,
+    "model_id": "71eca80eba2f40bcbaf0f3a1de58a375",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 912,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 382,
+    "model_id": "ecbc84fd9c5e4dca82efbd263db82003",
+    "type_id": "000-016",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 1169,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 383,
+    "model_id": "9519c052990746b4ae2a49130c239361",
+    "type_id": "000-074",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1845,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 384,
+    "model_id": "073616bf6a6e4835ba5f67dd3faa42dc",
+    "type_id": "000-138",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 2242,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 385,
+    "model_id": "792c36461dc8470eb7aa91c0c975b458",
+    "type_id": "000-022",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3594,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 386,
+    "model_id": "280229e3c36341bd9a87fee661910882",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 221,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 387,
+    "model_id": "42061aa619bd44f895dbe91d3fc90d54",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2390,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 388,
+    "model_id": "a7397c65a06646deb9fa49a7f2d45a13",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 1350,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 389,
+    "model_id": "1d81de5b4608436ca0c2fa160c15d048",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1207,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 390,
+    "model_id": "3a431666c29441c885ca2247a19e3671",
+    "type_id": "000-164",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 2252,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 391,
+    "model_id": "ef7025ecb056481d83d257f7e2bf3400",
+    "type_id": "000-022",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3586,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 392,
+    "model_id": "e0ce25118c8f4d61bd8be95b0af5ff5a",
+    "type_id": "000-161",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 1808,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 393,
+    "model_id": "78dc8759592a442db091a2231de1b27d",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 349,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 394,
+    "model_id": "f0b298cb88bd43f08fdb60c7eaef5b7d",
+    "type_id": "000-068",
+    "annotation_shard": "data-00002-of-00005.arrow",
+    "annotation_row": 3277,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 395,
+    "model_id": "c57bfed0d9374a38bc2b93c1d3887b3f",
+    "type_id": "000-160",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 225,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 396,
+    "model_id": "20c87aa516f3449db342291a8f9f493f",
+    "type_id": "000-054",
+    "annotation_shard": "data-00000-of-00005.arrow",
+    "annotation_row": 352,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 397,
+    "model_id": "8b6b90d2458442cba663c58d9c1ad633",
+    "type_id": "000-117",
+    "annotation_shard": "data-00004-of-00005.arrow",
+    "annotation_row": 4581,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 398,
+    "model_id": "7cca296342c842eab5a94b0a66388c9d",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 901,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  },
+  {
+    "row_index": 399,
+    "model_id": "25996fe554453aaf8d556c728b2847d4",
+    "type_id": "000-163",
+    "annotation_shard": "data-00003-of-00005.arrow",
+    "annotation_row": 1,
+    "source_dataset": "AuWang/PartNeXt",
+    "source_mesh_dataset": "AuWang/PartNeXt_mesh",
+    "source_license": "CC-BY-4.0"
+  }
+]

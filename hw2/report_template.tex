@@ -1,0 +1,86 @@
+\documentclass[11pt]{article}
+\usepackage[margin=0.85in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,booktabs,graphicx,xurl,hyperref}
+\graphicspath{{outputs/task1/}{outputs/task2/}{outputs/task3/}{outputs/bonus/}}
+
+\title{CS 498 HW2 Report\\Point Cloud Part Segmentation}
+\author{Your Name (NetID)}
+\date{Fall 2026}
+
+\begin{document}
+\maketitle
+
+\section{Evaluation protocol}
+State that training data fit model parameters, validation mean IoU selected
+all settings and the best checkpoint, and test data were used only after all
+choices were frozen. Confirm that you made one final test evaluation for
+PointNet and one for the Transformer and did not tune after viewing them.
+
+\section{Data, augmentation, and metrics}
+Describe the supplied point representation and the augmentation you
+implemented. Include \path{augmentation.png} and \path{class_frequency.png}.
+State the transformation ranges you used and explain why the semantic labels
+remain unchanged. Give your confusion-matrix convention, per-class IoU
+equation, and mean IoU convention.
+
+\section{PointNet baseline}
+Using the fixed architecture from the handout, explain how the
+\texttt{[B,N,6]} input becomes local \texttt{[B,256,N]} features, a global
+\texttt{[B,256,1]} feature, and point-wise \texttt{[B,N,5]} logits. Include
+\path{training_curves.png} and the Task 2
+\path{predictions.png}. Report parameter count, best validation epoch, the
+validation loss at that epoch, overall point accuracy, per-class IoU, and mean
+IoU. Also report the aggregate test accuracy, per-class IoU, and mean IoU from
+the final validation-selected checkpoint. Discuss
+the training/validation loss gap and one failure case.
+
+\section{Transformer}
+Explain how query, key, and value projections let every point exchange
+information with every other point. State the packed-QKV and per-head tensor
+shapes for the fixed width-96, four-head architecture, and contrast this with
+PointNet's single global maximum. Include the Task 3 \path{training_curves.png} and
+\path{model_comparison.png}. The comparison must show at least two fixed
+validation chairs, each with input RGB, ground truth, PointNet prediction, and
+Transformer prediction.
+Report the same metrics as for PointNet, together with parameter count and
+training time, including the one final aggregate test evaluation. Compare the
+curve shapes and both models under the shared data
+and evaluation setup. Discuss which chair parts benefit most, the quadratic
+cost of full self-attention, and one visible error.
+
+\section{Limitations and improvements}
+Discuss at least two limitations involving annotation quality, part imbalance,
+point sampling, model capacity, or generalization. Propose one concrete next
+experiment.
+
+\section*{Optional Utonia linear-probe bonus}
+If attempted, identify the official pretrained Utonia checkpoint and source,
+describe the input preprocessing and frozen feature extraction, and specify
+the point-wise linear head. Explain whether pretrained frozen features improve
+over the two models trained from scratch. Use a library PCA routine such as
+\texttt{torch.pca\_lowrank}; you do not need to implement PCA. Following the
+DINOv2 feature-visualization convention, map the first three components to RGB.
+Include \path{feature_pca.png}, the
+linear-probe \path{training_curves.png}, and qualitative predictions for at
+least two fixed validation chairs. Report best epoch, training time, trainable
+parameter count, validation loss, overall point accuracy, per-class IoU, and
+mean IoU. Discuss what structure is visible in the PCA colors, remembering
+that PCA component signs are arbitrary. Submit your separate bonus code as
+instructed in the final handout. This is the only section in which Gen-AI
+leverage is allowed.
+
+\section*{AI-use declaration}
+Check one statement.
+
+\begin{itemize}
+  \item[$\square$] I did not use generative AI for this homework.
+  \item[$\square$] I did not use generative AI for any required part. I used it
+  only in the optional bonus marked ``Gen-AI leverage allowed''. Tool/model,
+  purpose, and affected files: \underline{\hspace{1.4in}}
+\end{itemize}
+
+I confirm that generative AI did not write or complete my required code,
+derive my required answers, generate my analysis, or write my required report.
+
+\end{document}
