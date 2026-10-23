@@ -1,0 +1,85 @@
+\documentclass[11pt]{article}
+\usepackage[margin=0.85in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,booktabs,graphicx,xurl,hyperref}
+\graphicspath{{outputs/task1/}{outputs/task2/}{outputs/task3/}{outputs/task4/}}
+
+\title{CS 498 HW3 Report\\Center-Based 3D Detection from LiDAR}
+\author{Your Name (NetID)}
+\date{Fall 2026}
+
+\begin{document}
+\maketitle
+
+\section{BEV representation}
+State the LiDAR coordinate convention and explain the four BEV channels.
+Include \path{bev_channels.png} and \path{bev_boxes.png}. Report tensor shape,
+metric resolution, occupancy, and channel ranges. Explain how you confirmed
+that the vehicle boxes align with occupied LiDAR structure.
+
+\section{Center-based targets}
+Explain the center heatmap, sub-cell offset, height, log-dimension, and
+sine/cosine yaw targets. Include \path{target_roundtrip.png}. Report the number
+of encoded boxes, heatmap maximum, and metric center error after decoding.
+
+\section{Detector and optimization}
+Describe the supplied residual backbone and the five output heads, including
+their tensor shapes. Give the focal and masked regression loss equations.
+Include \path{training_curves.png}; state final hyperparameters, parameter
+count, best validation epoch, loss behavior, and validation AP@0.5. Discuss
+which loss term was most difficult to optimize and why.
+
+\section{Inference and evaluation}
+Explain local-maximum suppression, top-k selection, metric box decoding,
+rotated NMS, and validation threshold selection. Explain why AP uses the full
+ranked prediction list while precision and recall use the selected operating
+threshold. Include the validation PR curve and at least two fixed validation
+visualizations with ground truth and predictions. Report validation precision,
+recall, and AP@0.5, then report the
+single final test AP@0.5. Discuss one false positive, one false negative, and
+what the PR-curve shape reveals.
+
+\section{Limitations and next step}
+Discuss at least two limitations involving BEV resolution, single-sweep input,
+class coverage, data imbalance, or range. Propose one concrete next experiment.
+
+\section*{Optional bonus}
+If you attempt tracking, state the Kalman state and motion/measurement models,
+association cost and gate, and birth/death settings. Name your submitted
+\path{tracking_comparison.mp4}; every predicted ID must keep one stable color.
+Report results at rotated BEV IoU 0.5:
+
+\begin{center}
+\begin{tabular}{@{}rrrr@{}}
+\toprule
+MOTA & MOTP (mean IoU) & IDF1 & ID switches \\
+\midrule
+-- & -- & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+Explain one failure case involving association, occlusion, track management,
+or detector errors.
+
+If you attempt multi-class detection, identify the optional public companion
+labels and explain how their rows align to the unchanged core BEV tensors.
+Report Car, Pedestrian, and Cyclist validation AP at rotated BEV IoU 0.5,
+show a per-class PR curve, and analyze at least two fixed qualitative
+validation views. State how you selected the multiclass checkpoint and any
+per-class operating thresholds on validation. If you also report final test
+metrics, confirm one evaluation after choices were frozen and discuss the
+small Cyclist test count. Include all bonus code with the submission.
+
+\section*{AI-use declaration}
+Check one statement.
+\begin{itemize}
+  \item[$\square$] I did not use generative AI for this homework.
+  \item[$\square$] I did not use generative AI for any required part. I used it
+  only for an optional bonus marked ``Gen-AI leverage allowed.'' Tool/model,
+  purpose, and affected files: \underline{\hspace{1.4in}}
+\end{itemize}
+I confirm that generative AI did not write or complete my required code,
+derive my required answers, generate my analysis, or write my required report.
+
+\end{document}
