@@ -1,0 +1,9 @@
+torch>=2.2,<3
+numpy>=1.26,<3
+tqdm>=4.66,<5
+matplotlib>=3.8,<4
+imageio[ffmpeg]>=2.34,<3
+zarr>=2.16,<4
+gymnasium>=0.29.1,<2
+gym-pusht==0.1.6
+pymunk==6.6.0

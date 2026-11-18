@@ -1,0 +1,70 @@
+\documentclass[11pt]{article}
+\usepackage[margin=0.85in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,booktabs,graphicx,xurl,hyperref}
+\graphicspath{{outputs/task1/}{outputs/task2/}{outputs/task3/pusht_train/}{outputs/task3/pusht_train/report_rollouts/media/}{outputs/bonus_flow/pusht_train/}{outputs/bonus_flow/pusht_train/report_rollouts/media/}}
+
+\title{CS 498 HW5 Report\\Diffusion Policy for Push-T}
+\author{Your Name (NetID)}
+\date{Fall 2026}
+
+\begin{document}
+\maketitle
+
+\section{Demonstration sequences and normalization}
+Explain how your sequence indices avoid crossing episode boundaries and how
+the provided slicing code turns those indices into endpoint padding. Include
+\path{outputs/task1/sequence_windows.png} and
+\path{outputs/task1/normalization.png}. State the observation/action shapes,
+horizon, observation steps, action steps, and normalization range.
+
+\section{DDIM and conditional temporal U-Net}
+Write the provided forward-noising equation and your deterministic DDIM
+reverse update, including how a skipped previous timestep is handled. Explain
+your FiLM modulation and briefly state how the provided embedding and U-Net
+use it. Include
+\path{outputs/task2/task2_visual_checkpoint.png}; explain how the trajectory
+changes as the diffusion timestep increases and report the oracle DDIM reverse
+reconstruction error shown in the figure.
+
+\section{Training}
+Report the smoke-run outcome and required full run. Include the training and
+validation loss curves, model dimensions, batch size, number of gradient steps,
+EMA setting, checkpoint interval, training/evaluation devices, and the 50-step DDIM sampler. Explain how normalized action noise and
+observation conditioning are used by \path{compute_loss}.
+
+\section{Push-T rollout evaluation}
+State the selected checkpoint, selection rule, 20-seed success rate, and mean
+maximum reward. Run \path{task3_policy.py --mode visualize} for one successful
+seed and the lowest-reward seed, preferring an unsuccessful seed when one
+exists. Include both generated \path{rollout_seed_*_frames.png} contact sheets,
+identify the two corresponding submitted MP4 filenames, and discuss the
+behavior visible in each video. Explain why receding-horizon action chunks can
+help or hurt the observed behavior. Confirm that the numerical-backend fields
+recorded in \path{eval_metrics.json} match the device used for evaluation.
+
+% Replace the seed values below with your selected seeds.
+% \includegraphics[width=\linewidth]{rollout_seed_100000_frames.png}
+% \includegraphics[width=\linewidth]{rollout_seed_100007_frames.png}
+
+\section*{Optional bonus: conditional flow matching}
+If attempted, state the interpolation path and velocity target, explain the
+Euler ODE sampler, report the training configuration and fixed-seed rollout
+metrics, and compare its behavior with the required DDIM policy. Include the
+bonus loss curve and one generated rollout contact sheet, and name the
+corresponding MP4. Delete this section if the bonus was not attempted.
+
+\section*{AI-use declaration}
+Check one statement.
+
+\begin{itemize}
+  \item[$\square$] I did not use generative AI for this homework.
+  \item[$\square$] I used generative AI only in ways explicitly allowed by the
+  course policy. Tool/model, purpose, and affected files:
+  \underline{\hspace{1.6in}}
+\end{itemize}
+
+I confirm that any submitted code, figures, numerical results, and written
+analysis comply with the course collaboration and AI-use policy.
+
+\end{document}
